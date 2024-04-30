@@ -1,0 +1,952 @@
+[
+  {
+    "id": "rec3JMZrG1G3NS5vl",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attyIsAgx2w2x6fJZ",
+          "width": 350,
+          "height": 214,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/dWTyi7i2ntUV9WdD8csiWg/xUD-BgEYqyAI9uLiP8j8fozhA9p4Qg9alAh4UPyZn7XBs7C9xoqnhNcQ-k8goe--yI9VF-i3_CBl9PyN9na7cW8KOvBfkVsyiFEYc16nuhknt-3eryom1iTP7d6bY5JKy2eyRNrLJ6s9-zM9yAf46g/lwLHxSLKzWLoRN_VQms7jfyvK21wZETtewwpg16cLBQ",
+          "filename": "image.png",
+          "size": 14220,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/wtSO9xOccd0jRdeIogxDGw/WWJFGrOPhm-090IPEZtEBhxjs-Ytp5Xa-GT9GL2PYwXrvihXYvnEnI8UPp3jxY46SF40gRXvyRQ_ByyEgnwSnH1zcaSq1ZjFfVxvChPY3VI_9K1C2y_m5aL8XuQe7odO8mlb18tfSkLaG-OCvg514A/mF5JgQTldUYAAjOCjq7eLHsuGg6aVe7llsQ-UZLiFEo",
+              "width": 59,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/7fdfoMOYcSwiHJFQWDcbhQ/koDogTdLZo9x9pVlU5i45-FsFT1baJbz08Eg3ogT0rKT9Hpq7EV7ZqMKUdjE2G3Rwy1t-kQDuE3TzhrPx0q1Go2vy5Bk6WEX4pdsyvIr7Ms8V0tPbn2FQ88Phm48I0OoOVz36_GjV_eW9zUYr2bp2A/1ny_VYSDJXt63Z-E5bCI0qa1fOPeLmkNkv7tMuuZ5zg",
+              "width": 350,
+              "height": 214
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/MW70mvwURiyOfSBo8BixaA/Ae_TG1muFTN6WHJn0JWbTynGSPhdOOeM2CMbHHTSP4EuLRJol6LG1iy00eWNRJHM30f0tABs7AFXkXWZmJAKxut3MaLpgZwmx7xDBBUMZik-xEFQiDortsu8ppIH-0v0HnRoyhux-wUorhQYdDQWWw/92KXTnbfWyFrIAdLU5ITkY1MEn8MdUWOBDNeNuOqNLw",
+              "width": 350,
+              "height": 214
+            }
+          }
+        }
+      ],
+      "website": "https://vinuni.edu.vn/",
+      "name": "Vin University",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845572/projectx/partners/Vin_University.jpeg.png",
+      "type": "Partner School"
+    }
+  },
+  {
+    "id": "recCDcLai0uSQvSdF",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attZynyx7bpsVb8u0",
+          "width": 400,
+          "height": 400,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/17dwbqUkyNYiqpjJoF_-ew/Oz6Vao0Z_5drqFZBSeE8PlfgDq76jzZj2_-rjwjzAzc3NUMDeJ4Rhceywb6IfgSV_flLbKPf0SRRWO7bdE0TszCFaG5SeO3NIUrMFdfKsuZbdgCUnRtPB05ulygFu81vfHJo0-mAsjXRLSGB6mEc-w/Im0aBSgq0DU8USVBnrW4K_o_SDO51qYclC6LakZUJ-8",
+          "filename": "image (1).png",
+          "size": 8278,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/vVqFJtqw9mk7OOl1ykweSA/foMWm9SOvLM3HaDmkwaThER3FnUqoKGXp0ph9uAoe8HS-XErzF3IZim0B2FMgqHHCHJmZ8nIwr8Obh7SWK_wQvUXi7sPvRvh-oIx8V6xlvautg60m3ueFPWyRKevK5hKPzmSLxKfuCyYRsYIK3xoIA/3GdXjBb3hv1myPL2mI_90cw4vB2hoOCS1THThX4F4uA",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/k29Ewjm2LpylPIxfkP5R-g/eznaeYQ0QVI1n6_VyLmtd6RvwxqbJIS4Es2J9ik6r6d3LKlQcKamNmKxkB0GaftXbN2jq0iJuZcv0ivaOM9a6lgnCR-ahyRI5huJ4r9DRZ7VYIqD_l960ITQJSndtgM09SLr8w7L8BFRXAFCVs3wKA/Sc9X_Puk8g1-BV01MitSDQ8gy6BnleyrZU2Bpd-FIsE",
+              "width": 400,
+              "height": 400
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/01cTnfedCH3ppF9PEktVYw/8Nap-R6kJIE350LdX_V46_9rDXaI34H3EkLHW-dMJEKepEhVy4WYm3yXgdrRGhwyam70H0VVCkoUt3MmiVsBrT-7ZJcZMB4OHWdBqWNW1QI1hqN5NFxGNHmwA9cquHkswj75Hl4cwYK-DpyEl9KUQQ/nJ2JgmitpxSnTdzwUqHh2IHVyvkxOUp_0v64-tGxEIs",
+              "width": 400,
+              "height": 400
+            }
+          }
+        }
+      ],
+      "website": "https://www.lg.com/vn",
+      "name": "LG",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845573/projectx/partners/LG.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recD6lJ8tmVm7Jvpm",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attdeh5jcOzPaabMz",
+          "width": 1040,
+          "height": 570,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/SI4HZSFF7sxPZAGSCCJH-A/7gW-c3kIChfHPgIvSfeqCBMNc9gzgYWYNc6BaFSCqgkyw3jkrCWjA2DKBi-Nko14dlEj943YuFHSQTV1u-CwLMQnlBv6I4HLoOKoMraItc_CEyPjMBiusppVrWz6i3H5fuPQaatI6Q7BnLZkfkfzCQ/KHSe0ANIgxhxqegoO1SG9CmpMTNHd7rscVetreh_wgY",
+          "filename": "vng.png",
+          "size": 36409,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/1e_mz3dMaR_xdpxNm8I4aw/Oj6zkvnc1NaEWmobvhFPKh7qnjuRH_aXELiavcn94BUe8HOwrTTpEhFiBtEzpTZcEN-wlGoSfoGjo1_D6Rts1azIPQINEVxHfVe_HX7P-z3GV147bqVUpqqd70AW8pXH35BHd7ywBn903sGCJJdUNw/NB69nEViC8mybfnI4kWdmGsENONVdhZ0qEXzxV3Iuy4",
+              "width": 66,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/-c3mNDf_AeU_qXNwSv15Ew/96v5eMrNpQ4dk3-UPPqrypJWF65aj6_HcKV3wbDyzlvkkunLUlefV2NVX6puXw1-xhMBNgYXBI1al3px_Lf-WlPY1dMANpKh3KD684t9hZCcgDf5yJ5dBOQYhvIUEngtYyexcSL9YoZ9m0VNymRb_g/WqznVqEmwpsSm3hD6nZlc0GQHKjwQsSWJcsJ_wIlRlA",
+              "width": 934,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/D0RLDPx_C6rNXQ818xmzmg/u93CzTf_Bx9bHr6fBcHuzjUdA1uWh8tuwNk5w0SqNQBAvRrZ_OqvzTScoKMh0Oc8IXQTR1KY-ZjNp7wAwa0GQLSA1t_jG_f_ijJ6Q9k_jvrAAeQ2HmqkPmITY9LDhUlOywIOg-3AQTI7LNGZfPDNLA/RwGs4jay8B_zmNws5AFMhaiohNa7lMwSH31QLBTamSQ",
+              "width": 1040,
+              "height": 570
+            }
+          }
+        }
+      ],
+      "website": "https://career.vng.com.vn",
+      "name": "VNG Corporation",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845573/projectx/partners/VNG_Corporation.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recFJTI4Scv7k5vyR",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "att4Lp9lSRpbgXUdz",
+          "width": 170,
+          "height": 170,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/AHwFPDeOxaPmCJd16Kclqw/pfH7O-Y7c90HXaarMoFM8WeKhHZc00ZUHaSWX2yilibCn1CGLwjs0U3nMw4KLgKGABszLcseNIHzNm0OSWFLvnRgooe_5Pvb67Axgw-sSK50ryOBdpTQWa29yyYs_pH7yBwu_FR22PJmkONgoiotCA/78_KH5iiSo516eBdZ2nPMfr3Zyq4wrXWeDbiMp6W4Lk",
+          "filename": "image (7).png",
+          "size": 9042,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/VVjjoKaCBcrud4BJ-VBkig/Tr5rFv1VvFQ_1uyiMl1ef_l5GyloeMOahhoPPgRER9Cc0EYD3HbMot2GzLsGK947TrkvzYbMDnOVSvNhxocJe8eqB3eYklvyVtdd1D37lkYUs9JzreDDXT4XnoahPhxPAflw-qux2Iq2woqV_IJY_A/3alo23iZwt1S2GLIo3vVN3pcm262Xl_R5OC1LmXfu6M",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/x8t_e6VD-vWtJGpZmPFu5w/2-__Efl29LsgdYBNdDLQl2Yf3L38CCiA5YvX3BV5UpiOupMytbsVa5QxsOch6Z7UfVcXyvG8nCAZu4dBW48oVV4e10UWbSJNzBaZ7w4xw9nF65RNwekxCmH8EasYL_8utMlrWS5081fJ3tzJMx1KEw/JKYkzRFTtEgfaEjv9rKKDZHOGLdXa05mSPgQ0c3NSpo",
+              "width": 170,
+              "height": 170
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/x4Q4V7lT8NSFFLi2zx-9Yg/LaQkPWi_OLA0fxRwC_s9aTId8f21oaIvr_RsfluGuLjJOZKUsGEgApHo4atvpu2Ql2LMlToPe98D2fpEIy4L5QxfIolUYT7yxi8vrEGXPe-vTh7bvcenR4H1RmQxlfrZ_yvegxVzhwCidp0AeCbMZQ/M4H_zfOjAzlJpc-k7edXOcSOkaWUh3UawtLm1NynyVk",
+              "width": 170,
+              "height": 170
+            }
+          }
+        }
+      ],
+      "website": "https://vn.got-it.ai/",
+      "name": "Got It",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845574/projectx/partners/Got_It.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recGHYlHqUOei8dAy",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attGT4urnRiavxjmC",
+          "width": 453,
+          "height": 111,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/FPoI7FUV1ZeDvo6kjrNBAQ/GdJd5aZ6vIZwF3GopeSgwmrRzvLNl3kG_ExQNuoxz1xo6TH8l-1C4-UxD6qQaXHyFz8x53sZ4T7A6CqFK-nzF1O8IkhmNKzp8j1yjZd34ASZse_szhG2-iWGCD87dbI69eJvYB5buvXNigAl_lA5Yg/JPkl76HvmEPMHEip0U0b0ZK-zPdTsCl_-gSFKP7uGfg",
+          "filename": "image (2).png",
+          "size": 3933,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/s4gDYWKQD2wLMhqa1mftdA/lSUHaQbc2Zy-4JwLpU6R8O6jwB16pHK08cP1mFu9pQ-a30Kc8HcIQLq3F9My0Ne-6PKfl5nW-tyE8kEFatm-pUKvL_lYamzqdh2-T-I5ltENOjqUy_wv4yQUhiSCKdTa1TO0jS1mcrX2ujK98UGWig/D4A8OB_tRb3mp8WufFKvI7pshcc77R2Wid7xYBIuyEo",
+              "width": 147,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/hXW3DQnOaEH-jH30whmEPg/CkuqWf7KMGcilCJCQC-1CtGCFzg7pSMeLRUMjRysBlA1jkaLrjDJFSQjZ820s0O0i4TMDQKpWtTVPkMXN-H8D2qs8iQjfatdRtHKvSbS-Q3lQbnzeTybRosmSVoq5Pf1b3q_9jILtTuwcU1F7ygrsA/iiP9J5w9MHfR-N_Km1PiYL8rLRGuKPJC9OgIc2AViN4",
+              "width": 453,
+              "height": 111
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/14vME5PPEvktr2uKvy5XEg/4rIx6xW2dRhkgYj-WCC21pHM925XsnKKzl9S-GrzaG6jcjSbC0zjGsXELBiDEij3j2LufQDPkoUBrYdvVKol_Pkpx4Ic9tTt3ZxmKszSwsCvMRHVoMibxR5vvioCBr4bjhyRGDGBbLzSv6bj4yAF_w/F3DbsuoMAvgLCNb8OvXWTOCE71gHeDcnTtcTEgDJYmM",
+              "width": 453,
+              "height": 111
+            }
+          }
+        }
+      ],
+      "website": "http://onemount.com",
+      "name": "OneMount",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845575/projectx/partners/OneMount.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recGYCdsxhClH6RDr",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attj7AhFsh09hp6VH",
+          "width": 2400,
+          "height": 2400,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/Qm-kddfBhpwTRlJoAVf_3A/5x5_vSmF1mrsp7KArmoogo2n0GW-lmyTVzIaAbsgE4eAdcDOYN64JWQWSSCyiSrEUtks1zh08kEtAMz1mZSirV0iLOvvc-WqW_Hl3gLhomcUabg3oRIi0ORueIvqkcT0g5ivkgwjKOEIv0FK_iNMwA/woFwlH--9SyPGUpQoLROMhX5-iNJXaepOX1bxOV8NIk",
+          "filename": "logo_vnuk_eng.png",
+          "size": 98706,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/QaJNxMLTV-0zvPn1f8Q4jQ/krnQiThT7DGFwcn2qP2kITjg_WzowNEh875RGNTMnI67egfL2_yzmzvUPFyVd7Vs9q-Vxdqu5IQ1UPpDsCS6gQZ5bHoRGMnB_d5cB8HsW8FP6ftmkdQu1D0SDojvRXHrFbHIO791exvZQHbkIupCVg/daVWPt9SM1fbeDo1Bu2UP4fn8iXyzqRH2mI8FSWJSnk",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/NEnOgRDvFNqJiLcLuHZEBA/vdDXgzbF6EBQMGE6vNsNAjBWqSof2jvrsD_k9Q_DJC6I1oMaEEvvVVEUKX5SO5A-AW4bv32lehYoeFTd3ZBsCBUF9EaEfciB7BfLXNqx3wlj7bzEbu-7AOrTK0E9jOGeV6TSLUgWCs_CyXvbd3uyVA/mYWCAIWnNeu7UXPViCxyzavCVTKpo4OzKLCcalunno4",
+              "width": 512,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/QNmpFv_WIcgkiS6yZkvLfA/PXJ3tC5EwPSHriDWBM5oL7eSEq-2TTW0OgByFPYSp6KtKwoAuOSXecvAUrggBn72Pc5lMoPejT9KyfOmbWfSfJmptzFb_KY0PtzbXCorUG5j_NMLZ1qhIjh4ONEudnXL2Y_mxN9ajwhKf0eKK7E2Bw/_PmflUHerSrlou0yGOrw7KpIeEa6NC5wUIglKMgeZSk",
+              "width": 2400,
+              "height": 2400
+            }
+          }
+        }
+      ],
+      "website": "https://vnuk.edu.vn/en/about/",
+      "name": "VNUK - Institution for Research & Executive Education",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845575/projectx/partners/VNUK_-_Institution_for_Research_and_Executive_Education.jpeg.png",
+      "type": "Partner School"
+    }
+  },
+  {
+    "id": "recHf5IuDK67xAsXi",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attpPVG9QULs6SQW6",
+          "width": 700,
+          "height": 400,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/-6Ggc61lQ-oG3Eys1to4wg/adwjTqO7i6ThTLceqyBqvLOxz17GbbeAH3lwy0DG4RJ3pIBph3C7h1qcc9tJ6789xVksBXT9eaDtDLRBHJp4FSPMuNMgpGX96nepZ97Dc4SMi6brXO4Z6aUonbIqAfOsFI_dWGp_oT4ZqHug2c7Zew/EW8R3_9lrANWpitS8od_1P4Ibgp1TnIST0mgL95x33o",
+          "filename": "image (5).png",
+          "size": 30958,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/-PJuvRaWkWrOMG8PDueueg/ZFW_5JpuzpS6P2eYaabSC3P0KYgSIfnR5aJCtWX6_7cZgqoew_Q7lfDcQeSbUq8Z39SX7f39dnVQ0vHBT6oCtyJt-7CvP5ncS2HnTd7juekBKQJ5b3lKdrDf9iQy4kVxQh6yZppdfy_hCtYZ0oImEA/MkB9KHlkuPMVLB6mJuTEQqkZ_4b8lLMLwOgjRPv6pJE",
+              "width": 63,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/CxRsEbaYgHn3voaDvhZZPg/h_U7sMP3MSj2DWpdFa3NNkC8XVmKRM7DoMSw2RXvPjV0sqvFBzvxJOCMxkkaEOuzhrJWJwC6zkqe3p_4Aaxm-LdtBgCLC3Z2AvBRXFdhRdgl0y2r5XHPTh4PGdWfPfI-1Nf65fO_ADgB9L0SkrViVQ/_nqVxUL4JTROM3iunTVo3otrfim9-HuZ-lg9IVnWLoQ",
+              "width": 700,
+              "height": 400
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/smXiAxPyozMCQRbwP6pavw/2D-JrVYxDVK_7f1LXt7gFNf0THkjFwNogFdH5ww7VsQDqOBhiDngU4wAaaeMQUdzJVTYNsj9hfKzDlINvEn7ftmbdjJ88aElAbt7DGRfSyMYdow5LpB24zjqBb9OnY-vTxh0avLMJHeLMSfALLDkdA/pihJN2lhri_VlrIQ5OjTAx6Wpakgt_-gANWBWeyPVYg",
+              "width": 700,
+              "height": 400
+            }
+          }
+        }
+      ],
+      "website": "http://www.homebase.com.vn/",
+      "name": "Homebase",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845576/projectx/partners/Homebase.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recK9bf4zUZxfREFr",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attb3MnWU4828qBne",
+          "width": 219,
+          "height": 219,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/uRHUOGxEMkkBzhpQNo_eNQ/9I9-2IeVz7TTboKL7eqCX7vKxjq0yfS5Rzb7AD9uavx_2gvNoHedIlrNqg-I-XH7KCY_5F8dNc9MzFmPmqYyPCykwXmJFIGCWHFbp90MLg1YxHLGBbdIRUOGSAF8DE9IMTntssAxHwMma0uJ2TxfPA/n323Yvbrziz3KBMJDcQPA5lLNXo1VOcPWKakCg-xy-U",
+          "filename": "image (12).png",
+          "size": 23956,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/onC35mWYpROBhb1UU-B68A/ZG7ojd7FGuD22-gqwYG1Pu1OqJDj1BlLBYTKy_xHNbV2OWAEdOHVkborXE7BrQrHh8H5IPo6WSuyn66P14EJD0Kzt5d9KfeNZe1nnFzmh5KEpDN6xMbB71YRZ3YQRoJ0hp3XlbTt2Scy7vgvv303qg/3DVMgEGvGphEayr7w7vcmMTZOx3xW38T13NiEU7JBnw",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/3p5Vj1rbz6dbScrq6nCf5w/QsBir4T8RuNxfa7PHKuU2FIoaMIC_roEOOlG6L5I2ox8walfMfx8QpYq51sKVa6w6PQ-LhsHf1HaRcG631aZhI-Sob-NR7utv-mt-Qx4LFFO70GE7yBBCcRPs4d62E9fUoYuB8T2W6VqTJqXOGVq6A/jxZdxasg4jdK_cJKiNHdBxteVotOCMnZAmpU3mMplUs",
+              "width": 219,
+              "height": 219
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/Ayxhjx_hlnfBVZZbea_hMQ/TP6pg0k6akX63l166C1Z6eQQmsZdR75ls_p4O4lZ-WMhvYeMQH1umn53wISrOC2gN1IdieeNQeMFkOYsIuvHycskETgXrEPzXJpKpGf3kG__aKN1arAamc0rB9JeXKQBW2pO6QTi_v510GWrs4Vk-w/SR6uvfB9LyihUUTz8GXFdj4KXqaM-rzUnBFEod1MKsc",
+              "width": 219,
+              "height": 219
+            }
+          }
+        }
+      ],
+      "website": "https://www.grokking.org/",
+      "name": "GROKKING VIETNAM",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845577/projectx/partners/GROKKING_VIETNAM.jpeg.png",
+      "type": "Partner Organization"
+    }
+  },
+  {
+    "id": "recKnvTcg3QiSkVMC",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attmpwCF5eL6AZUe7",
+          "width": 782,
+          "height": 686,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/0pqoTNSudPItSv7GoQ5GyQ/kvY4I9CiHVmzzBmnzFpvwKdtugpgykuqDLX1JtwepsPly6UhVZgLsWv3z7eN76nSHruwrAMcTMoXbB2eFCCYy3ItTmrfO-_gB02JchX-GRiGnzeztuyAlPvPux_oIhtGNw9saa42097IsOTQueqDGUxLKWuNxNPmxCcxYag5DI0/C-VJ6XVgicIiLnauH9OY2JS_m3dL5KLRFNnyJfJniSw",
+          "filename": "Screen Shot 2024-01-17 at 21.39.40.png",
+          "size": 380919,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/0SnQ_M5tYJLqHeTaSjZb9w/8FJaEAPFsCdIix4cB1fSOTVskEsHNo9ZIGNjbSAO0MQRf2SDYKHEAxHDDpRePAGTWVwY1rYR41iUr_KvaOzEksAm8v6OmzgOxbuDmKo_wK7pEKO02q4qQwMAnm5eARhaUbsA-XsxVgMqBv6zPuKA-g/KrklcxAIOUnMQBjJepeOzxNuWDLONrTP4aMxl_U2Q1w",
+              "width": 41,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/WNwGtd_zsa7fzBTV6UfDLQ/QWYloqRSs9dtkJu3OTveiVLSmWb4p-zsKUQ3JkLsMwGfJZ8x3LBlyQ2XubyaUyqrdRzaLBMN79lk1ose4CCjGOBsTLO37vwKcXDEEsPCApltdxA930ZYQiqJ7snSXVnkKOHAEfPbPEr0KXAoDsYMNw/c0gQ9OYNpBLef8VNU6tvkpMSmX82uK-93qlmJmhlRoo",
+              "width": 584,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/4AJtIffGNylR5ThjIld_yA/o61yM1c69OPB4zSSROb0oMVXBfNaF87j5TegxvEbPOZGYULm5PpOa1C_NBhKKLNJLjmkiqFVRm4_shV0rjq5gjMmScPWOZs6_aTHoERaaYRQ2o4vdS2cJGsAQBfRSNgYLpiaPg-VJL_srMu1_YH0CQ/5ZXU-zMC0wPIvEOf53qpuFnxt_ebeVsTf59xQglQGis",
+              "width": 782,
+              "height": 686
+            }
+          }
+        }
+      ],
+      "website": "http://www.home24h.net",
+      "name": "HOME24H",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845578/projectx/partners/HOME24H.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recLI44OuExqVpQQ6",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attpOCrkYpruvxKFj",
+          "width": 1542,
+          "height": 591,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/PtlrTUFNQtB5h6cSjGDIOA/t3L0yPmZ-XDGVRjgml7xGYITQHT2tKrYPRk6E-w4InBQ739q2ljo8-C1Hj-Kpe2OcnggD_A5jTPy-8KCfQaKBc3bMFqNyiB0_lJm-Bum8nuSYgJacbzbbZsXYdYzhyotUS3cYHOcv4SciInJxhbrgKGWE3uHodyVMFEabWy6AEE/lB3goOsDALDY6JmtwriUFeLCYKxjVkwaRBR3O1yXi3k",
+          "filename": "Logo_FPT_Education.png",
+          "size": 12751,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/X279fbIY3xH_tCDReD2vAw/qRhtR7w_SjfSO4kPrWp9E0wiwALfn8dU_Rp9Trj-79f9PYMBaVKJ4RiEI4umHH7MMVo1OJx-FZ59MMCeL8fCbwcb0eTkTdnoXuktJ4JI3d2hwYhblmJlPNvMFP8w9hLKE_GjR5Of-F9pDIyWvq_EpQ/x13oGT-os8FHDPHCJVcdmeZe1iatTSHXTJJ1GpabKgo",
+              "width": 94,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/PphN5qhb4teJ-dgAXGdO3g/9qXBp4tej160ZP9Fg4vnXAUqrPBcDNoxU7BwPosG0kmJ5E5MOYor03ueqAO094X-Xvf92u2pD1-uSfTGZUxYY_1COpxYNzSykesxxQkFyaLE2gi-IICuhPYUt5EdYfghKY4iDVc-b-RzGG9YZLZKhg/672Uvzz_DezOiCheoZKFYrQKzt8C-ztiJ-hrUTHC6TY",
+              "width": 1336,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/GIXLVPYBhcUYnqBkSNOlkQ/Os_Ahvp6WiFXVMzaco1xAn6lO-HwGn4_2fR3pzEcy7qOn50z-goiRNShlXlaiAYvD_uXPC7wB1gQcPvf-4gHlPQ79ceNThyJUuLYxGWw2_CV0Ml3FmQMQj30wugLxiWNqSCGkSsbGpsTyOYj5v26tw/kcAGxEYxpC9WgrINYk8eWWexIkQ--Fu-Tyw010KixYA",
+              "width": 1542,
+              "height": 591
+            }
+          }
+        }
+      ],
+      "website": "https://daihoc.fpt.edu.vn/",
+      "name": "FPT University",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845579/projectx/partners/FPT_University.jpeg.png",
+      "type": "Partner School"
+    }
+  },
+  {
+    "id": "recLo6hAdh88GABYe",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attVtlVWJukrl44hJ",
+          "width": 300,
+          "height": 300,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/OG80IJt7rC1dAH9nfxjtIw/O8Tk7pxP_rehwybOUgOe8qtnx47RKu_1olD7nPDp90Lm5LPHg6-r2QG4qZfXM7zmP4JRw8S15Mbigo1dGF6rxAfeFzroUxmHkQ71qCs1Fxnlp_imTYPlnDP5idZ2oNBztlb-66B38cpDY51VdON6wA/FEppAw5XsG1b-HS3hfdTchVseBXyE6f-oO_Ag2y084A",
+          "filename": "image (10).png",
+          "size": 108191,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/RTnZ7RHKjBJbrkbtmIMM4Q/kcIrrmLiQN1qxEQdLBBBKpIHh8VCwg6xlgAE5yfjqpGT1rt0A_lUr59JMP6lE80VINh8doPtzvC2PPw1NevWAbF6NGRrksprswYZwIu6ZPZzvlPAFgM0UHHGiC0zSmRNJ9m27fIfsPvItWLWQDzPMw/89FoKB5mmifM9zCEVsxq5BjzdzC0w5Ax_ikJntL8aZg",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/Djjl4R3y82Eqslk60EBWag/jBgKZNh9CsYTSD3IaXgzHxbUSt9Ct-f_SGC8p8APuVZK5WuSxHWiaCUAV58W0OGe7Nae-UmrXEYh2pEijWzC30VxSa-Bhok04bdZfzvLTn3j7I6LMRrYPSBl0swoThByX1fT5ZKMuL2IARtmNKMjZA/Ri8zYiGoNn6xBetYdlvj69sc8kwlKgeNR889wrTSMx8",
+              "width": 300,
+              "height": 300
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/v2O4XzCPEqQrF1gKZfMz_A/CBYqguOHzlW_TKx5wo57KUcIaM4XvS_vlXpf70CjMfQxpxveoqeCnjb_ndagC-F_6Nuxh3jPMxus59lq6_ivUha4ikPL8ALPQkqmDKU8HELFPDk6z6T-sPnInZsiW64OcLlp8450rR4NJWNndIHgKg/lcovOl1ocSGK8hN5bWEqIbamp7JXaV0oPbdM7GKMBSc",
+              "width": 300,
+              "height": 300
+            }
+          }
+        }
+      ],
+      "website": "https://ftu.edu.vn/",
+      "name": "Dai hoc Ngoai Thuong",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845580/projectx/partners/Dai_hoc_Ngoai_Thuong.jpeg.png",
+      "type": "Partner School"
+    }
+  },
+  {
+    "id": "recQOlQttevIh7wg0",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attgYLCo8Ff3C93TV",
+          "width": 850,
+          "height": 310,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/zzxLO7ovO2iYkaDURjSZlg/9S3Qnhr2I8rzskfIpig18jOvorZrCi-vI7h2hFAd_nMHWS_mjdEjexxA5_ca3oFZsQ6rmfELIA7DuDlk5STLkdMit9MnvHp9ikF_9VCrltXZt7gB-1vnInR1gUvACyf4i_LeRVl8YUR2AaZRz83z90ZC_o9BMjYW1_sZM81V-yk/9ylKXNCS_VKl1OYxelPahbZDRSGQDSJoveOdQBVqXrY",
+          "filename": "Screenshot 2024-03-17 at 12.13.31 AM.png",
+          "size": 45017,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/l2alW6T3y2qlxrCHMPfZ4w/I7rp0g6f8hfV1P3okRCGJj2fT895zpTfJN6L77xRqAiiC-J8yEdYkXpIgHsTA24sbUpVorduI7522_6sf2REds_p_nb8Is9WiNUyQoWT2jMQArSIdynFayOLdOoutwa7x3RBUQWHWQG0QCrRFXViCg/fkDRwkc9oVQys6CL2fwWogKbIE0WAncfs98VUlz1XLs",
+              "width": 99,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/U6S4-u5Jw3N9fOyCueylhQ/UkXy5FVzJbqyjRnpoJAnigoaBi_iys5G_IjbT9RvvjsfUmyI_ENN-Z8UvKFxJcFcTWsqyA1znwEEJNyAVDJQ3J6ROZMPmTGAehUl2bVLr-ss4-Yhz8o2l0ytJccoPfEyJTV_8KUE8nFS9152Him68Q/lg1O-EoqQ2i5aZOhTE8dTbC1GjKXRlp-BR5vgm0tkUA",
+              "width": 850,
+              "height": 310
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/xA6oBT4XU_jIBMhY4iVyzA/heoUk8r2wD2g4LxaViJFf_0PeFIgfgU1sVy1lyrAjXpldU-vPm1knsSwDH_l8RS8ZaiD-fF9IjZo37B-bQHbIR8b5K25R6XN01uWFzTAPT2Qp4dHwW16jK7hMp99OM04Ny3ddr41WtkZ3MWVEYi-MA/nUHwGvQbiSmTlB4dUqEpeCIQ3jyvlnc-Lplz_Axe0Kk",
+              "width": 850,
+              "height": 310
+            }
+          }
+        }
+      ],
+      "website": "http://careers.shopee.com/",
+      "name": "Shopee",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845580/projectx/partners/Shopee.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recQtkaWaJnTrhkGI",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "att2t3OeuUsN6vDjb",
+          "width": 601,
+          "height": 401,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/DNVqOndP3FH2yQN9q-Zx7Q/mE_oa9M8zKVd7HiGHTyyt1KyjjAXdU04dzh_ApD3ehriwKcpZJr1w0fpwvbmWo_XKpAZGK5QQszOPuT77aiDS4PxoEhLAyvLx-eMPT3NHy6pVlL3TLAFTeQciaLsJTuDqjPS3EfwuKfpbCDy-ZtSfA/U_eshPpE3Ub0WREZgVyxh3etZDZzlD2jrpESqzcKcP8",
+          "filename": "image.png",
+          "size": 13443,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/-lC4JIjze29Rw0ZCYE4KnA/W6Ko7ixs9j5m-Nx0qGiZpzacwDP69F7AtLLd2EWGLSgV5gLNti_LlJTG5OgNe3eUe0mH6iCOYUNnNU5FuUUIKBaHl96HUGe0gVxzAiKkCkR0ZanIF6p_g-29hR8jMJ46mBg7p8MQMHIoI1rI5xkGJw/-zgPcUCVycLkk61xyDfBTcplgaCuMAyRg9L6ViPHRNw",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/DLAaEdp8RhE3MXxyv-Sp8A/vhQVbCZz9k9JerZ8vSr6KhRsJzWjp40jzmO59Qsrlv3Lc79AjS1be7-R2g1Kpsi0kUxLxIJ9gUVBQOdLehUGNoQvuIdEHz45sGJvgykUbdbSGmtHEzrLkadXtFhcH0edZkKKKTWrKf-gUH717Zg-Kw/8K2HPrxbqaLqByD_kgj83m6eajILSqmLO4-eZu5ab_I",
+              "width": 601,
+              "height": 401
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/gwVjG0QWJNXYBLXppcbD4A/6n4kECBeraFrR62cRjPH88GiVV-yCJf0jXB0-I4SeVdl6Y8Y6jO0kaAtZRPx7e5I6Z5AqYPSO35YiUjL0t-BjIIPSDFkdpHsPS1HdsmqFcZVsgca1h33eSOFcI7GmEEexP8GFd9RHUZb4WDqJ4yPrg/kFl8ulCvI4kgl9kVn7AE9FugbNxH52RICa8C-GoL-8s",
+              "width": 601,
+              "height": 401
+            }
+          }
+        }
+      ],
+      "website": "http://www.fptsoftware.com",
+      "name": "FPT Software",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845581/projectx/partners/FPT_Software.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recRV0q5f1bd3rLh2",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attF8aW5TbRWekcxE",
+          "width": 225,
+          "height": 225,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/ZLBebzaXSfSQWmWLb7PIkw/6Ta1MTCoPrvUpacGcLvRjQhqBit7Vk1WqPjon6J5kWz6Tq9uRJCbWkEmOKmj_mcE3vYSXLrerGPY9quAi5W9IcwM-LYhgSg8PjemwZWPY3yaMtTeJ19WolI7vgrt1u9kb15qRJy6uOnR1luur22LeQ/RujBqHDyYpbxgE5Ulph6oANKZA2s7JAM_5XSU8DPeDw",
+          "filename": "image (3).png",
+          "size": 10596,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/CEAjE3BjVuRMxfj3sv8gNg/m_xc1-fTVIwKN16oOOcaMT_lhm2yNjhyusnHzb5Rwjx7VcIz694IZP70xP0HE73tCzmPcnqbOln4xoPP0cwv3BZ892MMB0d6ji3iTHOdvZyzUZhYDBmcRd4UKDUYoLjqTzj9IDZrsgSjSXE-yuMd6Q/AiY0qfEPpYaGo38UdgPZE16q9fJTnApJSrn-j6OSD0A",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/_jYy-jzfvSpMgwDbgUM8fA/ZEQZmBR9P0OwxxFa8gwKCACIeaxoPDE0hZ0hmuOlSmtBfR0SyT80f1WRfFH_Gdr01KsMBntBn7K1flsSBhvggAwUfBcoOpaCwBRa35wKSEKaE6tvzYCM8uMEsIBVHhEYLjwnLAD5NkSZ-1Qm-olORA/_N6NRR6O2upvfv3Vb7eHKAVe_wFE8NgrRScZ7aHvs2s",
+              "width": 225,
+              "height": 225
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/wahgTYxXQs1WQyDLJaavVQ/vDBYVXlL8svphAytTePeJecTeD-rkTgZZHQtMzfwfEZMwuZiJVVmLKfzC2FV4a4W_79YKF0IvjSsmsFibURhbZ-9IcEVjbNkZQ_MZfaBkwSE70NJmgMiGf4mqz0Rcn_8bZohEajaKoDNnAEErqsGLQ/SOVcfZoo-J-sfvkUSAlv-mU3hvuqQiCoa4RHUD2fTVc",
+              "width": 225,
+              "height": 225
+            }
+          }
+        }
+      ],
+      "website": "https://careers.chotot.com/",
+      "name": "Chợ Tốt",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845582/projectx/partners/Ch%E1%BB%A3_T%E1%BB%91t.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recSpB4rF9ldU4Izd",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attozJELSTHRTFm2R",
+          "width": 411,
+          "height": 122,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/h_pRZ_P9VJq_oM57IY5svw/_vTlyeH5MF281QPT8mvZJp5mhTNzoskAX0YzK2YWaqC0Rl2fq_ah9NckcTNlC0q3r22BuHwDDNvPh2JVqpQcHRxeEJViw6Tq2dWNxZs-IOMVzxyrddeMLR6YRWc-DlCnsBmBdCkGkDbDB5S9eW2vqA/OjKCnfwAVm9GPtoHMCo6GqTTFJ0z8J7uDmBrrZcMrmY",
+          "filename": "image (8).png",
+          "size": 17928,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/8V0hKh1vH8nJRVMoMsGviA/-8hXJpUvKP78_O7mOQ_mgxq_BTyQwuC8DTpdV5AXzSRCQSCdS9hmvzYAN1sCKhbnWFFvxT-jnpv5Ndoy6zhqa21jdXBboUo_lCEdZZ_qZNbqb7-KxPnbqVhA72zlC4dLX2-iZHy_C-ChRbSg1SlnYg/npJjwKdIrJznJhlvmpLpH8jAcJ9r7-kEfOIvOJUdO5k",
+              "width": 121,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/RWprLr2SCz3LU5JQgQfacQ/dxhU5KVmsctE4I_1wjynm53UE1NHM5G9EY2tPNo1BgWgdv6Z5AVtUXsyGtpjO7xDW5umEvyTcz7JORWJrmDKsQlaIzrF0UzH3gMIYMy3Dg_KMDCP39N8S3uE4gzhO2GYeKzSrKndwVUnPcGkShy8lA/Mgnh7t0X9YA54Un-onPMyeSQC_B5SE3KzNivv-sg2BA",
+              "width": 411,
+              "height": 122
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/gDFuKhG_sDFhQUU0EfnkNQ/a_pVqEUPcq_wUmBXFdHmPdYuCfwpcrqKib7YViOxx9Jqhzieg_pHL7SjcS5CmBLoj4cmNcq3xJH91LgI2M5rkI6jfYRdszsSqkZSxfbC8JfofFfx09SxKweiEHrUDqy5sp6xdnqR1EtdZqDPyS-UbQ/BE1aIpV83id-9ZY7H1lLGo-w6tt9Wk76BKYw8sIeZa8",
+              "width": 411,
+              "height": 122
+            }
+          }
+        }
+      ],
+      "website": "http://tribee.io/",
+      "name": "Tribee.io",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845582/projectx/partners/Tribee.io.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recVdHlcqiXvCY9Tk",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "att5YYA5tRkCvesNN",
+          "width": 2048,
+          "height": 1463,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/13VaxuFUJ6v9jBYY7aLaqg/sXhZ_nuEKFpDGF8i4y3lBkKNB8iCv9h4PG1AW4vGNGOZS1qn_jmr3hIGJHQTrjsxaRZvuD_RLr4nXOJLHg3BZ2C9SOeBsj-R_onB0I61CLrmXJkjGNXcWlZT77Vg_6Gd2MFQYceQj-f1_8WHgOBJtILlyNCD0uHSyg0_aBnJ3W3Lo4oeg3SSYABLdr6WxnM0/-ccnj1mWA8SFavrTkFgA8evFJDePFpS0BL81XUCmPus",
+          "filename": "329023693_746155570145446_2881177862566667356_n.jpg",
+          "size": 819223,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/HGKhfTsirXBRjHr8rIMXmw/2o4JxJzlNKPIUE1TPV8leTro9-WU3bhn39OPgar3aYSyGXURPXcU7U0D-L0SeIjvz8GZWi8NgMmZTysaTAbAdOuQc4U8x9xEYfqq1G7LJTtMXPUDSp9EmGjiTjPJtZHCg0pHLed0WAkFzZSF4E4M2w/C2UBrQpR5HbHBK4sP-jnpdIMZdY9Kyckwd6MI_cWm8o",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/uQAfnzVjxCLrtrZxgXpn_w/OWP_B26-WQYP9iTUZKfdPWG1fQPLN6PKi-rRjiKfisA-gdmcmIrAPZnkz2JLGpN9zS-Ij0yQueJnTT46r1fVpQXIs1OA0vGURt04ur72_f7hxT0pS5Xb-efv1YtKCR1urgYub862h1W0VmZiqH-5Eg/xAoeN6Q4C-1nyUoD3_Sv2rKadJ8Av4srSyTgvlOhGdg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/yJfcwJ7RdkpCkdBaHq-0zg/FLMXGlqu6Mjrr3GYLKwzCrhetQzQuHJgdtjj-JxHS-7v13DHTx-QYY0GpVBoWGPerM1NfcjAWIuVzWfIDkJphJdvqbmW3Cqkq7r6yZN04blwdVlRLGHEqsMa9Tf5MDrBkMkjg1_kZkDV5WLH6jW7Sw/E26oaZ6sgIfb-ETwOqirQexUqQlqH9iNEL0EzEl0S2I",
+              "width": 2048,
+              "height": 1463
+            }
+          }
+        }
+      ],
+      "website": "https://gdsc.community.dev/vnu-hcm-university-of-science/",
+      "name": "Google Developer Student Club - VNUHCM ",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845583/projectx/partners/Google_Developer_Student_Club_-_VNUHCM.jpeg.jpg",
+      "type": "Partner School"
+    }
+  },
+  {
+    "id": "recbBk3x2vkUxAQJf",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attA9QKw6uy4TR0a2",
+          "width": 1428,
+          "height": 673,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/Ny8nC6wp6w-33NCjXjQw7A/OnVsMR2EEMawHbFje8nGheEGK8YbwhR8wiAwYuqQuCHTXXmdmoEcnHjjMjgJQde2cyn_Xrv6VwJJA_cMxVW4Ib7N19vsRx0i35vvFN3zbuoCkePPeYZDvsIziHJSaCFVXq0j4qvxckfnCd2ZDmFylw/kGO3-66NhBWWyw1ymdCUBMA17sX0hh1-JHUE6d4s6Tk",
+          "filename": "image (9).png",
+          "size": 60689,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/d06xGKbF-VP1mxW7jUqmXQ/AObxRHjTxDPkME0pv54NDSVeOMc9zXfq0EE9mo3QtojuND7Duif4z4L2IrMfgbFiHpuAIsaTOaKAgKksAMKNHX1sMuXTx9vXM2ktZLWLFIyV0-qUrrw8Qrp1CSNdVWfMD4BB52YXEUchkQdRKOxEQA/68RCo_BdxcQp9c56ueTb-MSAE8ovmhVulJmgqqo8CLE",
+              "width": 76,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/XLPmwW1WbkRJv4Eoh0INLg/ltamuzGnTEHJI-_pR9He9_sF0vkWCkDaQReCH4LprVGebDHvc1GJ2eG7F9_DrymbOrSu_4lRUjO_IOSMHFax8aMqAdIqjW6vSbQKhkK5kU7TAUA16kRhnrNCw8UEzu59q_XnvprY4DGaJW0O9bRcEw/lSOGihO-kW32-GYDAHlYR42dhDj0x1VmlUHYywhd818",
+              "width": 1086,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/tU1VDnavJRWJmdZPTzvmVQ/F5ExtB0eg98CPziCJjA7kfDcqf9NjIBy3EJ8Fbh8Ka46RQ08ToiRet6k9DrbWAQhRo8dBvWkBYG0EjHS1M6xBMr3qnpj3NAT3FDMz0N8nU7wCiMj_Mx_n07wTLgdkYio-EgC7lFOfcqkWw9Z9xDwUw/LjmobjuTswzLAfigdDUihN2bQJjWTUVJ_vx25eP3v8M",
+              "width": 1428,
+              "height": 673
+            }
+          }
+        }
+      ],
+      "website": "http://www.viotgroup.com/",
+      "name": "VIoT Group",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845585/projectx/partners/VIoT_Group.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recf3RKbMzvALjW9S",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attnlRJQbvde4Qs2C",
+          "width": 1785,
+          "height": 1785,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/2H7OH41146Cp1U3X1Xra2Q/LoX-Ntw7JrTev_baDoCyYWvXZ2G8olhqezPBxUAied-uok9X7vQWV-A9BKCBQ0AA9lAuimbtJ-EYNuQD0JhgoaxeTNk1PWMvoHzFBY7pcEs__Z0xZ2B1e9daPKllkoXxVOANCag8oy7hV7aRJ699dQ/g0auqdtGyrLb1niGty9iUIxXMTbxUrkTZBnYHxCn-gg",
+          "filename": "image (4).png",
+          "size": 159426,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/P2NFF6pb26wd-naN1Hz1qQ/n3fOI16CSZ-6bo-HSCLg8YIMjGWN3P9RSx1PxwHTUjVW-CP4WXWP20TheAcnSRtK5V-Epss_jPesWjAAnZvpKpKZKLq90BA2ZPskG53SbAKwVRsCSd6pFFAJeoR5ZnqmZ-es0vvysFIviMR8FDx_vg/3sPUyxPxULT7ZoYGB9j7bcamqpTham2ppMym6hu8y70",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/3gzOYJ7XI8Y6GkQNpErk2A/961iNGLubKtQ5oM-fcmmZpySUEj2LbuaX9jT2sA-aEUyg3CRoXdwkKvM5pQvjo7D9xFOZlC5zKbo-yi5T3qlpRxtgKN_1XK5--s1MGwyO-CXwZr-Bz1byHT38xUE3DH3OeWdupbrJEC8kAz4Tqg7LQ/l11cLUgIUPTqFF5rnVz_pUnO6yNbXpfISXbgJVxCplM",
+              "width": 512,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/DJ_sSW_sVw1nsGAoKjF9aA/r-30lgvFVeuIKs3sDElY7KePiVOtUxLYqKn1M3wJE0y3KSXQRpXAxsQdhcJI5dwFuMm24YleVDm66mkjbw8_jTvzybmTFoLEgfmRh7eXEWJv34Vko7CWb9pfJByrcaouRcqpXc17kpxVOPq9fwXzhw/80PGcR66jj2PfuCPHhQH1MbIm8uIWImiNhze22cpDMA",
+              "width": 1785,
+              "height": 1785
+            }
+          }
+        }
+      ],
+      "website": "https://business.gitiho.com/",
+      "name": "GITIHO",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845587/projectx/partners/GITIHO.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recfEow83rEREwp1A",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attVmO7ExkTdm7o2g",
+          "width": 1200,
+          "height": 1200,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/06_TjSZix3ecCLwfdf_b1g/s2GTj-BiTw5ByQze3nIfK-KhjkUWb2elFXUN06YX3hnVdKIQ7XnHkpjdNNB6BQ-OFEx-IuqsN1JR69VdZLZ2x5gft4GjHYNhA65kXN4shoMgay8bdLe04gF-XfQ3smVp9Tv4U_uMQsXNHJBjU-dCFVx4z4vR6kkE6YPW2Gj4Kxk/n7bdsurMNPIRfE4-pUm9aLykOUKWP5KS-UXOAwsTzSg",
+          "filename": "Global Shapers Community.png",
+          "size": 254350,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/XXufxR4geN1Nrc7c9QkU0g/3E0k9u1ZjiAugwgQbk7kEXkWsR9MHg8p4Et2s4gsMpPjkbDDpPaXLASmTFprmkNuSXjaB-ghJjXE-3EVXUki_J3NSwWrgaeJWvDKPxwGiBbBf-XSzuAaa8xgXUMWGd_MenUHLeqUX4VSqyDbLQ9PGw/QXeJXf-teB17QngC84sK5hqpPaej8v3N1BJdo10bujk",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/vmwZa8HK3TUSNbSpO7oncg/3ukhQAcvTsKtrzl39w5IDb3dRQnjG2Vokf-nEh_A04_p-aQ1kiJi7Akvzk0jxllGKgn8O3YQ3cJanjyRwhLg41WTlYHPAL_1DKxwzfS_oTr0TzuZ2ywsF91dFG8DFpUu4DtcTstpHu1Qw7NkIqUm1Q/rhZGKaTtGRqBI0H7Ei0FEeeStAYy67qsjt5CD5icbF0",
+              "width": 512,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/SmPEIy2lbDjhg_-N4mgVzw/xUCq_I82CujPe7NrgGG_3P3gtDRmRL2v3W3aG9rqh-j2EkSYNeyuYYcP1xkcSPhh750iv3R3QFYJIcPVlB8Jin9I2YbEfbmoYxZtjQ3cJfb2SfekQJyh-6boR1S1dU2s-1E5WOdgvMHftwvCMCCPZA/P3LqRVGxR7AxWtJpOfb5iCRz5h9BL_q8RAdAf4KINWU",
+              "width": 1200,
+              "height": 1200
+            }
+          }
+        }
+      ],
+      "website": "https://www.globalshapers.org/hubs/ho-chi-minh-city-hub",
+      "name": "Global Shapers Community - HCMC HUB",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845588/projectx/partners/Global_Shapers_Community_-_HCMC_HUB.jpeg.png",
+      "type": "Partner Organization"
+    }
+  },
+  {
+    "id": "recjk12s5nzMo0K8U",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attLgKyyfWyFCKpco",
+          "width": 1200,
+          "height": 1200,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/O8sd87NWtq6rlshjMrP6JQ/1pg-ooJH6RoVcMnW_RkF1RqAKSkGyW08lt2KtvpFJIQ3srxaqnbGtxU2F_Yo3uI9bgyDrwfku977yHSgFtpP_GgVovvlnYtADaKqF20WYKzJBj1zoN0tsKJ4qKz-mYXE2yG9oh79kQowbs-vjbC73Q/tnVCvQHK0yDyfUIyESDKZaIigc35cKgUkckERSoTYuo",
+          "filename": "preview.png",
+          "size": 36109,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/iLvM73y3z5xfwiliP33JxQ/jBLatg8OluJ8b3-_sN4EghI2mqYl45P9f_rXe0oDSH_vsYpuTEhFUygNIhku3rHnf_AQWi_rZXzMA8MT-2mHt9O3k0HPnGfKofSykfxll9ivEfB9O55PZc7b0Dyb3EeQtDv2RNA0S8WiS9neJaoogQ/YSzGIxO-QwEB-QU68PTZXFlLxGE9A4TQb8pRh7Ylouc",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/-5E6JlbNE7ElWyCxj4ZPQA/kLqkeP84eTcm--UOLYPbiRqj65DiS6pzL8w8eyRbJaRFDSJ0C0xNSpymxcR_lnINUh2XqPDZWhS5kO5LyiuQutZ-5zC3TnjTIQrrCgWGO3jkSwQuy4z9p4NxFjn6obINLoCnNXM3KSwJk0wwvIpL9Q/pGNqMkiNdhMbWG6yqUBSPxk5yyYpV1tCUjBhozJdhVs",
+              "width": 512,
+              "height": 512
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/k-8vNrntxBrMJbUCuxUr8Q/tqe6wSkEGp4lFCzoYVHYcncRQ8bw8IXEn0s0bPKPLjT6SfyLqvHc8wh7FdGqoe0BpRFI85KoIZZYj2O4u3cZ9EiXJhyVxj73EGUiJREtmh3r7-3bfM4gnBj1zta1SJ6SeqxalcxqtUJWCpIGIWBakA/5VJq8qxa4dy_8G12SvpmoHOQjkkUhFIwHsXLE-7cpzE",
+              "width": 1200,
+              "height": 1200
+            }
+          }
+        }
+      ],
+      "website": "https://incubeetor.com/",
+      "name": "Bees Group",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845589/projectx/partners/Bees_Group.jpeg.png",
+      "type": "Partner Company"
+    }
+  },
+  {
+    "id": "recl1Vm4E2wuUxyi7",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attBSmeyrv2bNHqF7",
+          "width": 1200,
+          "height": 1800,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/tbsjfU9Rnx9IeGMXmRKBbQ/IyNKJkE1x-5q6zf9LwOYrVahgi9DqlP-YCYKJQp4fRkSk9DgDg2MGhYlz5u39HY54l4O0_czauMazm4XbT-WeZMhKxRCFyC7c0a-_V0Fb2IHl2OfhRPOvoCwLD3L8AlE2KCdOjQQhg7ErVsnRTyDDkaov1YqnvjqxaWETVpD7Ij4xzDIWuL12BXqpbRsfPnj/HvyyNuMeRNUcpozAEhWc_w-YHAR1Hke2R4IWmHHKFd4",
+          "filename": "1200px-Logo_Đại_học_Bách_Khoa_Hà_Nội.svg.png",
+          "size": 128920,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/0g546XKZ3kXza1ASsZON0A/skyRreG9xakJWpmbQZBXol5dsnCE0wgCZunEGrHn-q1xyFgejPMzXC6Jn-1RmPlHl5CjIgOqQY5hV2qyTQetNe781xujAarfeEo7o33YdbORhVe7TMHx-HbSFgElx9TV0Q07j7V6HAusdL1URh-SuQ/X__IyppF1zfap8uotWGHxMws4AKVKppDFqKKxZjly0w",
+              "width": 24,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/R1sVXyV4CWIuiGJxBr0jdg/llnM851PPF32A8738A5qmC44B61ox-46fputPcWzHXaTIGOFttwb-aFUqWlBU4kKypzQ-61nSEFvGFzhOpoDl9un_DHC1N3mL5lohumuDVLRSqrjzrzLpd1Wv0k0-d5mGvAwVOSBt8UenF8uq6O1dA/OvVo5c2l7qbpV_dL1H_ed2A8jcWKMKPp71SjfOuRIdE",
+              "width": 512,
+              "height": 768
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/wsQBZ0tslnSXKe3q-6goBg/lEsnzvKPJCN9EtC0UXK6ldo5FRy2LfmH-pDzQgRQpd3W1Mg_CAB-0cv0pqb1vq7VMNjQOB5J1dOvgUxlO7vN2TmWed67oPuV0Je3T7fF1ywy4lR7B1BpVRieRaMuIhQDUYzMeUaa9GqZYigCyBaSVg/ntmGPHAo3qstW_vrVvKfnu1J-0JTu1hnKfVftRVS_Y0",
+              "width": 1200,
+              "height": 1800
+            }
+          }
+        }
+      ],
+      "website": "https://hust.edu.vn/",
+      "name": "Dai hoc Bach Khoa",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845590/projectx/partners/Dai_hoc_Bach_Khoa.jpeg.png",
+      "type": "Partner School"
+    }
+  },
+  {
+    "id": "recsQcTbK49ejIj5c",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attbkM5AvAhhcKHlO",
+          "width": 1094,
+          "height": 336,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/HKcxRU-mbhMqyzFP77WpCQ/JOyb82Wzs56CMJ2m9Efnxq90y0V-OdinG5O1niKzkRl-butrf-fB1doqG3O9ydIyh5dbVDSGb8P3QAGZZdCnEwURM-S98B5TiyWMHFPrt9DJoDQdLu7bpHl9YDLvUXLjaqk_ePyFAcmAPB-JWoTORKsCu0TTBXJ2sV6c5gMl3qM/j1FQE-Wc2USV00nSvi4HaXJDHCnAS3LI3u2_7O6Hsbo",
+          "filename": "Ảnh màn hình 2024-01-29 lúc 11.59.14.png",
+          "size": 102835,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/9C1RFkci2ny90KLWtO_AMQ/_kDbjgr3u3mrc4BtqHDFTXQ5Ilw4wmNXUk1399UWkh-_b8gjqRKIhLEZHsbyE-YiPZlI31Z8ayXgRU1MXovhwoDZTv9xICMPxXdqE6SixE7P2Sr9T_arGihDsBfra-sA38bVJTFheLL5AnSyHASvOQ/MWSyg4rpKbt3g6NywUESeTGh-WktpiYRz_wpHuv8QNM",
+              "width": 117,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/QoldfTwfbmj-baLEsQJs0w/djh-EzudRpgDRQlLe7Cr7zo6uIwp6hMO9q7bznY437duf4o8hP0E8mWsc1RN6fvbTmzDNsALD_905ioLG4ExTO71qOfGNNqOatvjvf7QJpFipGo_-XfjJvjj_hVM0DqvPerbi-wEdCK6hcDtEmS6mA/7AEp-25Om-fRZ4cJ28RC-QdaoLibtm-EUQbBahtKq2o",
+              "width": 1094,
+              "height": 336
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/EC_vVLflAhgsmk9qsTtLfw/-BD7gFmOmhvkBfHSIqiIGeeUFf0vxinm3-zHJiS9TBUtrhKtikrazKK4RFaq94Hu7ratxpX4lEsFCrWtPtV5x84Yp65uwiXPqnpnlAqPiUHB4jAEqAQDvICO0LllLpCGuRncdHJyjkufI4zdmHAE2A/Gskya0mh36Vum4QKzNIQE0yKeFsyexxd4yB0KrSI8_Q",
+              "width": 1094,
+              "height": 336
+            }
+          }
+        }
+      ],
+      "website": "https://vinuni.edu.vn/entrepreneurship-lab/",
+      "name": "Entrepreneurship Lab - VinUni",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845591/projectx/partners/Entrepreneurship_Lab_-_VinUni.jpeg.png",
+      "type": "Partner School"
+    }
+  },
+  {
+    "id": "recunfYZpUBaGLcg8",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "att5uZEtZyQqsuyrc",
+          "width": 267,
+          "height": 267,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/f2_PGkkn_E-mQwTwcDr9Zg/MJjxzTreKNxEGJq7Rk4ARKjt0raddmmWiUix-lnBU9MH8gf6ehAwDOSpVvXV0pYUSRHTIBdWHuvLjDljH9ID5KIPqZDaZzCRKkWnWNLTP0j_nCxtqwJGp-IJYJtVxEQgFydXy_0RiQCduyhBkl49hA/O7eFyusXA97nZRS2DYVRq7qiO_mBEcT2SCi41_H7ZQs",
+          "filename": "image (11).png",
+          "size": 27269,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/H_awNbo8pVxG9ahpfMfxgA/On4fXhVqVj82wdd8n7XrHnUR4k6GbwVX_iNBAHqQ9svuOXEQpfRImVpxspbC7EKZn2UIbqiTs8ZQLP9oPiqHU8uIMvmnbHJp9QJFSU5tX5hJB-6aJNuuKiVigs7sZkOymgwWiXbGMdSa5zR-uZ9pOA/wLQqvylD6dQyhDbSh_GUgThgA_swM2NRTdkPBPGrK8A",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/tEWUe-duXSPTLrD66yZGYA/rV1cIL2wJiFBiqgGrutNveZ3Mx7uUD7njPMIlkvSb_WDPynnVrHObOqAsTjQiPzexkY2nREo1LbEuiFl308K0MsP4DUKM0MAO3D4ydPkjNlIAQDfim7UznjxUy0TjZ34WpcQDUgrKyCCgFYB1K6m0Q/V5hlkaJ7ZexDnfpdedm6cnMy9orSOj09zZ7S5nM1LJc",
+              "width": 267,
+              "height": 267
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/LLUqBscQWthGBEx_I5SusQ/cLODFnqRjyWF0LhHqlns3DmInDL1rg5b59mVM_1oU62TpH5312PkDVXI8oA9r5jzOHRUv5yBLbDjJz3smbsoQMrZHWIFSgWYSfT7S9JlMnni9kf3WNKEqL1nAljdesMSdbULu6AEXnlzRKynNOjq_g/2RPFtJKlU_WwJ9WRCNpG6nAGop1ju2Q4hu-bxbDfRsQ",
+              "width": 267,
+              "height": 267
+            }
+          }
+        }
+      ],
+      "website": "https://vnoi.info",
+      "name": "VNOI - Vietnam Olympiad in Informatics Community",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845592/projectx/partners/VNOI_-_Vietnam_Olympiad_in_Informatics_Community.jpeg.png",
+      "type": "Partner Organization"
+    }
+  },
+  {
+    "id": "recw2xiUexhXj7vAV",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attRSOpx9ysU7NNPN",
+          "width": 375,
+          "height": 245,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/aixKhnUXVAx0XDJqEBLPhQ/gC79h1z__LnmwbNu4qTKwMZ2tdn0iSNsA-QAdabfrlUlXq3iZh1UPvBko8XAdENev8nd1RZ8arYZhcTm441pIBGr6nBkzwl848Mg1UevWEzUAH0p249HRPNkBAyQvkQpUvhJovPdz1sB1raje82CWu2BKFZfpyAQ-yRU_YIGaWQ/Up1Z6MjRdHkQOS4J4cQ1Zl9_KMLI_LwHgnTcLUJMk9A",
+          "filename": "19.05.21 - Logo don-03 (1).png",
+          "size": 20642,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/su3bqEDByMeIYWXtFWmpJg/2-ArD8JJ8l5kVFGTF8XWBDXtpLaO-NXIwfUIUwiIROqhBNIdyNEpl6w8wcE3UkGjV-VeZl7yL1S7_kspw_TvhXFwQ9q_QBDDDrrSXuCXbcvizHM_Gj3qPr1GOCW8l23EEqsVESXyKgEI_TMRUhP4xg/EI4XfQ3a-2J4OHIQE4i6m1bol9y15Fcw2Qy_fmWtjt4",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/8ruKvXEeYlvPOsR5x2TjDg/cFbX7wVqZdznk1mmE8SY0eAwa8wvBCl9tSHRDkdzhWX-kGI5W0i-saAq1qaxavE_2ZzElZ3HsLxWSaTc343ihEevQXsrUOleZ4W7SQPOMaAXF6X4j8FTHA1aydrQstZkBvlX9iyECJvSU6HRHGyfag/LSNLd7kAUIz-JORyWhMin5BRwuR7Q6r9nqzMo6GnCOU",
+              "width": 375,
+              "height": 245
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/Bg6qFoQpvSuQfK98q6db9Q/oNMxXxheVJ_98PQDsDKbiC_0SoSXVE7l6z5LPIDlqpreKjQdFKvFuQo-kKkf23vRo48k6gIa4XO7fAIpPIKZnFNmwiVTtsWPUlBSoh4Wc69Kl4wMaDN2_egOB9LoRoy6l0HmM1__GBd_DAOuIEurzA/tctywdLCFPrO771H5YNawZcWEkIJ9W-g4oJfu7BoUBA",
+              "width": 375,
+              "height": 245
+            }
+          }
+        }
+      ],
+      "website": "https://vnuhcm.edu.vn/",
+      "name": "Vietnam National University Ho Chi Minh City",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845593/projectx/partners/Vietnam_National_University_Ho_Chi_Minh_City.jpeg.png",
+      "type": "Partner School"
+    }
+  },
+  {
+    "id": "recyXkui4gYqG81L3",
+    "createdTime": "2024-03-24T22:58:10.000Z",
+    "fields": {
+      "logo": [
+        {
+          "id": "attGmDu3Uvn84IWJq",
+          "width": 1200,
+          "height": 246,
+          "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/B3Guezn-hJrptroEyRIPTw/NH_OQSmgYq_r1R7sn_t2SJfF14vAbulXXX7wE5P5-CNn0cf1TD8OAnnat3rO4KDY66T0VA5CTOMj5ZuEo1_ikxdCaqjNSQW-5czxowg6XBQBkTTADhPzrBgo916_wFD4xNuDGhfcrYeNyBC7w4jbyw/rvmsyu5Z-Ws4OKxBqwx5weVom3g9iGr8GmMYXBufKFw",
+          "filename": "image (6).png",
+          "size": 32138,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/RQraDotG-ys30H2bdQ2ZPg/jdW2557xmAQDWptwM_lJpp4qcFrEIImuCyIgjcHgZsxpHh-iOI74v9cUJmpjBk-5keClqr7IAQjETRQ6qdoicp0Sh9btQzmrysg-9TXOth1atencnnHAdODerWh6EDo9js4C2xvOzWSKBAvGYqUcUA/EIArrVyyiHHhQkm2C3G1qjMcckFUGB1EPMY-9SALIlE",
+              "width": 176,
+              "height": 36
+            },
+            "large": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/g-EUv0uCFuXqx2qT_FrSCA/MOePzgdzn_xzx--I81l4rFCDoaH3Oa-ydJAVVOaUvrZvtjs6mOCLjWDhZlxk5g2_MPfXdrOpe3F6ReA_GTbbfVI2mUFZ_RKdDdEt6wb4JNHA3BM1xUwY8k9kmcTSEnyWbplFxpVGou4sHj59Oxd01w/FIrppcm-Sz4mNDM8IVj2DLHCpWswa9LbFHfNvVrkkgc",
+              "width": 1200,
+              "height": 246
+            },
+            "full": {
+              "url": "https://v5.airtableusercontent.com/v3/u/28/28/1714024800000/ZZEIsnjeNHLgy3Uro3tooQ/NdKN_uaYjawOUUnz2QTKqyXVbEmyUBDUWtHvH9dBaEDyWrOwJ5CNW6tcxx5AqogSa8gWWFZDFDfotGFdNNy5M-z2uc8CTwu9ok8eZPTASX1QGfNuHIXqkpZgFqwmDJIbSGiaLyCPW2A5ZYJyGdOQNw/GDYDaDnpwS3eUr_8nbFhdqYzqFJPkcisr1eFRSU0k5k",
+              "width": 1200,
+              "height": 246
+            }
+          }
+        }
+      ],
+      "website": "https://infina.vn",
+      "name": "Infina",
+      "imgLink": "https://res.cloudinary.com/ddbhacfd6/image/upload/v1712845593/projectx/partners/Infina.jpeg.png",
+      "type": "Partner Company"
+    }
+  }
+]
